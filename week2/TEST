@@ -1,0 +1,5 @@
+
+FRUIT = ["A", "P", "L", "E"]
+
+for y in "P":
+    print(y)
